@@ -1,0 +1,31 @@
+body {background-color: paleturquoise;
+}
+h2 {color: rgb(110, 50, 60);
+    text-align: center;
+    border: 5px solid tomato;
+}
+
+.label {color: rgb(110, 50, 60);
+       margin-left: 10px;
+}
+
+.texto {background-color: whitesmoke;}
+
+#formulario {
+    border: 5px solid green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    width: 1000px;
+    padding: 50 px 50px 50px 50px;
+    margin-left: 140px ;
+}
+
+#textareas {
+    margin-left: 100px;
+    border: 5px solid red;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    width: 1000px;
+    }
